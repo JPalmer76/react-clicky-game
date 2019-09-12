@@ -1,5 +1,7 @@
 import React from "react";
+import "../navbar/index";
 import "./Nav.css";
+
 
 
 
